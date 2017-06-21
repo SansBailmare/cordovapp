@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        },
+        "callsplugin": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.jio.hybrid"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+<mvc:View
+	controllerName="sap.m.sample.ListCounter.List"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<List
+		headerText="Call Log"
+		items="{
+			path: '/log'
+		}" >
+		<StandardListItem
+			title="{name} ({contact})"
+			counter="{duration}"/>
+	</List>
+</mvc:View>

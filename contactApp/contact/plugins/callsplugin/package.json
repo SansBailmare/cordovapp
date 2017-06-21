@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "callsplugin",
+        "scope": null,
+        "escapedName": "callsplugin",
+        "name": "callsplugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\DELL\\cordovaprojects\\contactApp\\contact\\node_modules"
+    ]
+  ],
+  "_from": "callsplugin@latest",
+  "_id": "callsplugin@0.2.3",
+  "_inCache": true,
+  "_location": "/callsplugin",
+  "_nodeVersion": "4.4.3",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/callsplugin-0.2.3.tgz_1483369378712_0.1801448198966682"
+  },
+  "_npmUser": {
+    "name": "asindico",
+    "email": "andrea.sindico@gmail.com"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "callsplugin",
+    "scope": null,
+    "escapedName": "callsplugin",
+    "name": "callsplugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/callsplugin/-/callsplugin-0.2.3.tgz",
+  "_shasum": "6b61d6c2314c6ffe57c6acac3b1de72e90be9489",
+  "_shrinkwrap": null,
+  "_spec": "callsplugin",
+  "_where": "C:\\Users\\DELL\\cordovaprojects\\contactApp\\contact\\node_modules",
+  "author": {
+    "name": "Andrea Sindico"
+  },
+  "bugs": {
+    "url": "https://github.com/asindico/callsplugin/issues"
+  },
+  "dependencies": {},
+  "description": "A Cordova plugin to retrieve the calls log",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6b61d6c2314c6ffe57c6acac3b1de72e90be9489",
+    "tarball": "https://registry.npmjs.org/callsplugin/-/callsplugin-0.2.3.tgz"
+  },
+  "gitHead": "a5c9f1bd1f837014b8187415c3e3a569d6e241dd",
+  "homepage": "https://github.com/asindico/callsplugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "calls",
+    "log"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "asindico",
+      "email": "andrea.sindico@gmail.com"
+    }
+  ],
+  "name": "callsplugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asindico/callsplugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.3"
+}
